@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1069.jpg,Slippery_road,0.91,8,8,109,99
+fr_roadsigns_1069.jpg,Tunnel,0.8,746,339,845,440
+fr_roadsigns_1069.jpg,No_motor_vehicles_including_mopeds,0.63,254,117,456,321
+fr_roadsigns_1069.jpg,Give_priority_to_oncoming_vehicles,0.48,989,448,1194,652

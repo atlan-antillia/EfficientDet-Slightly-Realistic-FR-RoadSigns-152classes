@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1059.jpg,Speed_humps,0.95,987,449,1190,647
+fr_roadsigns_1059.jpg,Slip_road_to_right,0.87,255,119,353,220
+fr_roadsigns_1059.jpg,No_pedestrians,0.81,742,338,947,543
+fr_roadsigns_1059.jpg,Stop_sign_150_metres_ahead,0.74,8,8,156,210
+fr_roadsigns_1059.jpg,End_of_overtaking_lanes,0.49,499,233,596,331

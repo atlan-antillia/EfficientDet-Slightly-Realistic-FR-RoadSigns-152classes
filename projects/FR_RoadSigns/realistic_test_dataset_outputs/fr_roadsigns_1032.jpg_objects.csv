@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1032.jpg,Road_narrows_on_left,0.76,989,448,1193,628
+fr_roadsigns_1032.jpg,Escape_lane_on_left,0.73,256,119,452,317
+fr_roadsigns_1032.jpg,No_right_turn,0.58,745,338,845,442
+fr_roadsigns_1032.jpg,Ahead_only,0.48,8,10,111,111
+fr_roadsigns_1032.jpg,Weight_limit_5.5_tonnes,0.42,498,230,599,330

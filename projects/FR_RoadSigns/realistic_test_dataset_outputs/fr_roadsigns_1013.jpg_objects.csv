@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1013.jpg,Cattle,0.91,990,452,1189,626
+fr_roadsigns_1013.jpg,Chevron_right,0.83,498,229,597,331
+fr_roadsigns_1013.jpg,End_of_pedestrian_and_cycle_route,0.55,743,339,844,438
+fr_roadsigns_1013.jpg,Stop_customs,0.47,11,9,110,109

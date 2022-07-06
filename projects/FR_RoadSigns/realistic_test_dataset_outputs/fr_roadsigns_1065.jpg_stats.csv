@@ -1,0 +1,6 @@
+id, class, count
+1,Trams_crossing_ahead,1
+2,End_of_priority_road,1
+3,Road_narrows_on_right,1
+4,Cyclists,1
+5,End_of_bicycle_lane,1

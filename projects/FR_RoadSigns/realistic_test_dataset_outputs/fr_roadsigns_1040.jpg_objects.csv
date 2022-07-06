@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1040.jpg,No_motor_vehicles_except_mopeds,0.62,11,10,208,210
+fr_roadsigns_1040.jpg,Slip_road_to_right,0.6,255,118,356,219
+fr_roadsigns_1040.jpg,Cyclists,0.57,500,228,600,320
+fr_roadsigns_1040.jpg,Wild_animals,0.55,990,451,1186,627

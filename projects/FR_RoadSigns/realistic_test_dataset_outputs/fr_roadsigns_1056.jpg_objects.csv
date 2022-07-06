@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1056.jpg,Chevron_right,0.96,990,448,1192,650
+fr_roadsigns_1056.jpg,Steep_hill_downwards,0.94,9,8,211,186
+fr_roadsigns_1056.jpg,Bend_to_right,0.92,253,118,456,298
+fr_roadsigns_1056.jpg,No_stopping,0.63,745,339,844,440
+fr_roadsigns_1056.jpg,End_of_no_overtaking,0.47,499,229,601,333

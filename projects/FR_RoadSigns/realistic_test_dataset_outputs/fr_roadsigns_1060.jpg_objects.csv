@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1060.jpg,Advisory_minimum_speed,0.91,258,120,453,322
+fr_roadsigns_1060.jpg,No_parking,0.76,990,450,1089,551
+fr_roadsigns_1060.jpg,Equestrians,0.73,13,10,205,182
+fr_roadsigns_1060.jpg,Pedestrian_precinct,0.7,503,231,703,432
+fr_roadsigns_1060.jpg,Road_narrows_on_left,0.6,742,336,846,428

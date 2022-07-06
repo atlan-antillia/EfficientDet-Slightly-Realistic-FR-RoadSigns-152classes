@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1046.jpg,No_vehicles,0.85,10,8,207,208
+fr_roadsigns_1046.jpg,Axle_weight_limit_5_tonnes,0.81,990,448,1190,653
+fr_roadsigns_1046.jpg,Two_way_traffic_ahead,0.66,503,230,697,404
+fr_roadsigns_1046.jpg,End_of_pedestrian_precinct,0.54,255,119,356,219

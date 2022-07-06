@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1001.jpg,Temporary_traffic_signals,0.78,745,337,950,520
+fr_roadsigns_1001.jpg,Overtaking_lanes,0.74,10,9,108,110
+fr_roadsigns_1001.jpg,Priority_road,0.72,254,120,452,319
+fr_roadsigns_1001.jpg,Cycle_route,0.48,497,230,600,329

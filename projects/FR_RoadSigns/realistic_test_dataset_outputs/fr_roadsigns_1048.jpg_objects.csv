@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1048.jpg,End_of_pedestrian_precinct,0.73,258,118,455,319
+fr_roadsigns_1048.jpg,No_stopping,0.71,988,449,1187,651
+fr_roadsigns_1048.jpg,No_sounding_of_horns,0.69,499,229,702,434
+fr_roadsigns_1048.jpg,Pedestrian_and_cycle_route,0.67,7,10,112,111
+fr_roadsigns_1048.jpg,Two_way_traffic_ahead,0.58,741,338,846,430

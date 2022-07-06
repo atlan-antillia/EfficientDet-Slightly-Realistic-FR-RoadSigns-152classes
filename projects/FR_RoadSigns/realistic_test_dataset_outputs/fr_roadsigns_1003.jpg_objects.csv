@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1003.jpg,Bumps_in_road,0.91,12,9,207,185
+fr_roadsigns_1003.jpg,Road_works,0.79,744,338,845,427
+fr_roadsigns_1003.jpg,No_cycling,0.6,254,117,456,323
+fr_roadsigns_1003.jpg,Stop_police,0.51,500,230,698,430
+fr_roadsigns_1003.jpg,No_vehicles_carrying_dangerous_goods,0.49,987,448,1190,650

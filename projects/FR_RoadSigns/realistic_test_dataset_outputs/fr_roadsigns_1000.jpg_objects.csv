@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1000.jpg,End_of_cycle_route,0.76,499,230,600,331
+fr_roadsigns_1000.jpg,Turn_left_or_right,0.76,988,450,1190,649
+fr_roadsigns_1000.jpg,Cyclists,0.67,256,119,353,208

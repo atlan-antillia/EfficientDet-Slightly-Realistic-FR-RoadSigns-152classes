@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1061.jpg,Trams_crossing_ahead,0.86,502,229,701,405
+fr_roadsigns_1061.jpg,Road_works,0.8,747,336,944,516
+fr_roadsigns_1061.jpg,Turn_left_or_right,0.74,10,9,111,111

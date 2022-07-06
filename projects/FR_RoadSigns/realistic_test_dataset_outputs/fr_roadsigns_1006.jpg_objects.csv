@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1006.jpg,Parking_restrictions,0.88,255,118,454,321
+fr_roadsigns_1006.jpg,Reduced_visibility,0.86,747,338,846,428
+fr_roadsigns_1006.jpg,Turn_left_ahead,0.79,991,449,1192,651
+fr_roadsigns_1006.jpg,Uneven_road,0.64,10,9,109,97

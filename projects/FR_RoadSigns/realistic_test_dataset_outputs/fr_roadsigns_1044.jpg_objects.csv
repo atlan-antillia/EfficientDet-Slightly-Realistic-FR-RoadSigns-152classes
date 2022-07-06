@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1044.jpg,Lanes_merge,0.86,11,11,208,209
+fr_roadsigns_1044.jpg,Queues_likely,0.71,501,234,701,407
+fr_roadsigns_1044.jpg,Cyclists,0.57,745,341,943,518
+fr_roadsigns_1044.jpg,End_of_pedestrian_lane,0.41,990,451,1089,550

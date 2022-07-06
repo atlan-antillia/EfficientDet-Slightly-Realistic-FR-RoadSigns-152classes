@@ -1,0 +1,3 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1080.jpg,Road_narrows,0.92,12,8,205,184
+fr_roadsigns_1080.jpg,Opening_bridge_ahead,0.61,742,338,944,516

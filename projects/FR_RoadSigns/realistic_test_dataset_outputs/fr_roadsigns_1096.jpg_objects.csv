@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1096.jpg,Slip_road_to_right,0.83,500,228,696,428
+fr_roadsigns_1096.jpg,Temporary_traffic_signals,0.78,255,118,453,299
+fr_roadsigns_1096.jpg,Keep_right,0.52,742,338,947,541
+fr_roadsigns_1096.jpg,No_overtaking_by_lorries,0.41,9,9,111,110

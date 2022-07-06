@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1039.jpg,Traffic_light,0.87,254,122,457,300
+fr_roadsigns_1039.jpg,Pedestrian_crossing,0.85,745,339,846,442
+fr_roadsigns_1039.jpg,End_of_pedestrian_and_cycle_route,0.7,499,229,601,330
+fr_roadsigns_1039.jpg,Disc_parking_zone,0.61,9,9,214,213
+fr_roadsigns_1039.jpg,End_of_no_overtaking,0.54,989,451,1091,552

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1078.jpg,Cyclists,0.7,255,118,353,208
+fr_roadsigns_1078.jpg,Level_crossing_without_gates_single_track,0.68,500,227,700,363
+fr_roadsigns_1078.jpg,Contra_flow_cycle_lane,0.64,990,447,1188,650
+fr_roadsigns_1078.jpg,End_of_fast_traffic_highway,0.6,9,10,110,110
+fr_roadsigns_1078.jpg,No_vehicles_towing_caravans,0.45,744,338,942,538

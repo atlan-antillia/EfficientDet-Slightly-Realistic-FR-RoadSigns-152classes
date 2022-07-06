@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1068.jpg,Parking_zone,0.83,744,339,845,440
+fr_roadsigns_1068.jpg,Roundabout,0.81,12,9,207,185
+fr_roadsigns_1068.jpg,No_entry,0.71,255,118,455,322
+fr_roadsigns_1068.jpg,No_motor_vehicles_except_mopeds,0.62,988,448,1091,552
+fr_roadsigns_1068.jpg,Stop_sign_150_metres_ahead,0.54,500,230,589,335

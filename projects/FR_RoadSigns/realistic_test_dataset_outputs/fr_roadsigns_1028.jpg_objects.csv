@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1028.jpg,Slip_road_to_left,0.94,13,9,210,212
+fr_roadsigns_1028.jpg,End_of_pedestrian_and_cycle_route,0.76,990,452,1092,551
+fr_roadsigns_1028.jpg,Disc_parking_zone,0.53,252,117,356,221

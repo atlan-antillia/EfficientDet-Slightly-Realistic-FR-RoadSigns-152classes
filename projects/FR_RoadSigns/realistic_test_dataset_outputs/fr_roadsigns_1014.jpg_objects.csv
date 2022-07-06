@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1014.jpg,No_motor_vehicles_including_mopeds,0.64,10,9,109,110
+fr_roadsigns_1014.jpg,No_handcarts,0.56,253,118,457,324
+fr_roadsigns_1014.jpg,Contra_flow_bus_lane,0.54,500,230,698,431
+fr_roadsigns_1014.jpg,Double_bend_first_to_right,0.48,989,451,1190,627

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1033.jpg,Parking_restrictions,0.82,743,340,844,440
+fr_roadsigns_1033.jpg,Road_narrows_on_right,0.81,12,10,210,187
+fr_roadsigns_1033.jpg,Road_narrows_on_right,0.8,497,227,700,405
+fr_roadsigns_1033.jpg,Tunnel,0.78,989,448,1191,649

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1058.jpg,Temporary_traffic_signals,0.81,257,120,459,300
+fr_roadsigns_1058.jpg,Bridleway,0.72,744,339,846,442
+fr_roadsigns_1058.jpg,No_right_turn,0.54,8,7,214,211
+fr_roadsigns_1058.jpg,End_of_bridleway,0.5,500,230,700,429

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1073.jpg,Road_narrows_on_right,0.69,746,340,843,428
+fr_roadsigns_1073.jpg,No_overtaking,0.69,501,230,699,433
+fr_roadsigns_1073.jpg,End_of_pedestrian_precinct,0.64,9,7,108,109
+fr_roadsigns_1073.jpg,No_u_turns,0.62,255,118,353,219
+fr_roadsigns_1073.jpg,Two_way_traffic_ahead,0.46,989,449,1090,538

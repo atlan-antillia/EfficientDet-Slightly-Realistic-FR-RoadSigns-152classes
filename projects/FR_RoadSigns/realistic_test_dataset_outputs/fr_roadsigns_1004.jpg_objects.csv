@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1004.jpg,Pedestrian_crossing,0.89,256,118,355,220
+fr_roadsigns_1004.jpg,Side_winds,0.81,500,229,600,319
+fr_roadsigns_1004.jpg,No_pedestrians,0.79,8,10,212,212
+fr_roadsigns_1004.jpg,Contra_flow_cycle_lane,0.66,989,450,1192,654
+fr_roadsigns_1004.jpg,Fast_traffic_highway,0.61,745,341,945,540

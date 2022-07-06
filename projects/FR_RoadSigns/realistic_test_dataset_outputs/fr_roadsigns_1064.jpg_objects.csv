@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1064.jpg,Pedestrian_and_cycle_route,0.79,743,339,844,441
+fr_roadsigns_1064.jpg,No_through_road,0.72,256,121,355,222
+fr_roadsigns_1064.jpg,Two_way_traffic_ahead,0.63,498,230,600,319
+fr_roadsigns_1064.jpg,Bend_to_right,0.63,991,448,1089,539
+fr_roadsigns_1064.jpg,End_of_minimum_speed,0.6,10,9,111,110

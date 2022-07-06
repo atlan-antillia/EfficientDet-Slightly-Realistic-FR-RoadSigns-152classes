@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1030.jpg,Ahead_only,0.94,11,12,207,209
+fr_roadsigns_1030.jpg,End_of_no_sounding_of_horns,0.7,744,338,947,542
+fr_roadsigns_1030.jpg,Lanes_merge,0.63,991,451,1189,651
+fr_roadsigns_1030.jpg,Road_narrows_on_left,0.58,257,120,357,209

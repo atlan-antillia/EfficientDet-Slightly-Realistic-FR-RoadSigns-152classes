@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1091.jpg,Other_danger,0.89,12,13,210,187
+fr_roadsigns_1091.jpg,Pedestrian_crossing,0.86,500,231,603,330
+fr_roadsigns_1091.jpg,No_left_turn,0.85,744,337,944,540
+fr_roadsigns_1091.jpg,Equestrians,0.71,989,449,1192,625
+fr_roadsigns_1091.jpg,No_motor_vehicles_except_mopeds,0.66,255,118,455,320

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1031.jpg,Bicycle_lane,0.84,10,9,109,111
+fr_roadsigns_1031.jpg,Quayside_or_river_bank,0.81,743,338,946,519
+fr_roadsigns_1031.jpg,No_motor_vehicles_including_mopeds,0.58,253,118,455,321
+fr_roadsigns_1031.jpg,Double_bend_first_to_left,0.56,501,228,697,405

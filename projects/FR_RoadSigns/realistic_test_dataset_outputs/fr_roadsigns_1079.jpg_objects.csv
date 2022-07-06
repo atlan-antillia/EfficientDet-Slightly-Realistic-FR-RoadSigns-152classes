@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1079.jpg,Accident,0.93,255,121,455,300
+fr_roadsigns_1079.jpg,Tunnel,0.77,989,449,1194,651
+fr_roadsigns_1079.jpg,Parking_zone,0.69,9,10,214,215
+fr_roadsigns_1079.jpg,No_left_turn,0.43,746,339,844,439

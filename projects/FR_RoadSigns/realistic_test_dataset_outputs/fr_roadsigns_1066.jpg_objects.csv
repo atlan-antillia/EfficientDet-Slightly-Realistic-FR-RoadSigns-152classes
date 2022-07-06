@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1066.jpg,Bicycle_lane,0.91,254,119,453,321
+fr_roadsigns_1066.jpg,No_through_road,0.87,748,340,948,541
+fr_roadsigns_1066.jpg,Axle_weight_limit_5_tonnes,0.87,989,449,1193,653
+fr_roadsigns_1066.jpg,Other_danger,0.8,10,9,108,97
+fr_roadsigns_1066.jpg,Pedestrian_precinct,0.72,501,232,599,330

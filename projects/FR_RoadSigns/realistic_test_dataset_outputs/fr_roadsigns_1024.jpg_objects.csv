@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1024.jpg,No_entry,0.76,500,230,697,429
+fr_roadsigns_1024.jpg,Reduced_visibility,0.72,990,445,1183,622
+fr_roadsigns_1024.jpg,End_of_overtaking_lanes,0.64,743,339,846,440
+fr_roadsigns_1024.jpg,End_of_motorway,0.55,9,8,109,108
+fr_roadsigns_1024.jpg,End_of_minimum_speed,0.53,253,119,356,224

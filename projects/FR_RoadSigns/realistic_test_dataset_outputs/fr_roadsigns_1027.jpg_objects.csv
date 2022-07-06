@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1027.jpg,Tram_lane,0.92,255,120,456,324
+fr_roadsigns_1027.jpg,Roundabout,0.64,745,338,845,428
+fr_roadsigns_1027.jpg,Slip_road_to_left,0.64,500,231,598,331
+fr_roadsigns_1027.jpg,Road_narrows,0.46,8,7,109,96

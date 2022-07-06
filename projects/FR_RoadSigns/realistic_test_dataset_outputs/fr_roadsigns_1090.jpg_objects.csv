@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1090.jpg,Tunnel,0.86,7,9,211,213
+fr_roadsigns_1090.jpg,Steep_hill_downwards,0.77,254,119,354,209
+fr_roadsigns_1090.jpg,Quayside_or_river_bank,0.73,990,447,1194,627
+fr_roadsigns_1090.jpg,Two_way_traffic_ahead,0.6,501,230,700,403

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1081.jpg,Accident,0.93,10,8,108,97
+fr_roadsigns_1081.jpg,End_of_home_zone,0.77,743,341,946,543
+fr_roadsigns_1081.jpg,Snow_chains_compulsory,0.74,501,229,599,333
+fr_roadsigns_1081.jpg,End_of_no_overtaking,0.59,255,119,357,219

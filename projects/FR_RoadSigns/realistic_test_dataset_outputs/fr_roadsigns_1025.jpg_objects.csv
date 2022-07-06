@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1025.jpg,Parking_zone,0.78,500,228,703,433
+fr_roadsigns_1025.jpg,End_of_no_overtaking,0.74,254,120,357,220
+fr_roadsigns_1025.jpg,No_motor_vehicles_except_mopeds,0.68,743,338,943,541
+fr_roadsigns_1025.jpg,Keep_right,0.65,9,10,112,111
+fr_roadsigns_1025.jpg,Tunnel,0.62,988,450,1088,550

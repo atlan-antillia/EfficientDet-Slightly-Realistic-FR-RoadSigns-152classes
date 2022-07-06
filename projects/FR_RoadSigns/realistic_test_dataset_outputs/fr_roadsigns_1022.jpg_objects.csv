@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1022.jpg,Bumps_in_road,0.87,991,446,1187,626
+fr_roadsigns_1022.jpg,Pedestrian_and_cycle_route,0.79,9,12,211,210
+fr_roadsigns_1022.jpg,Uneven_road,0.61,254,118,355,208
+fr_roadsigns_1022.jpg,Stop_sign_150_metres_ahead,0.57,747,340,834,440

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1082.jpg,Parking_restrictions,0.89,9,10,208,208
+fr_roadsigns_1082.jpg,No_u_turns,0.69,499,230,602,332
+fr_roadsigns_1082.jpg,Slip_road_to_left,0.63,989,450,1088,548
+fr_roadsigns_1082.jpg,No_vehicles_carrying_water_pollutants,0.56,253,119,458,324
+fr_roadsigns_1082.jpg,No_mopeds,0.46,744,337,846,440

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1008.jpg,Road_narrows_on_left,0.78,12,9,207,183
+fr_roadsigns_1008.jpg,Steep_hill_downwards,0.75,990,446,1091,538
+fr_roadsigns_1008.jpg,Lanes_merge,0.72,498,229,601,330
+fr_roadsigns_1008.jpg,One_way_traffic,0.63,746,340,844,439

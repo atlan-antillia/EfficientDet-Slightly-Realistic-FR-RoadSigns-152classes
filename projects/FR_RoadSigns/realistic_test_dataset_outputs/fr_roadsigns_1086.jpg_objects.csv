@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1086.jpg,Other_danger,0.94,746,338,944,516
+fr_roadsigns_1086.jpg,Bend_to_right,0.93,987,449,1189,625
+fr_roadsigns_1086.jpg,Ahead_only,0.82,499,228,600,331
+fr_roadsigns_1086.jpg,No_u_turns,0.69,254,118,356,220
+fr_roadsigns_1086.jpg,End_of_no_overtaking,0.55,9,9,109,110

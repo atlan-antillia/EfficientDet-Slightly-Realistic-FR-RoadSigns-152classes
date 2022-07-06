@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1083.jpg,Accident,0.93,742,336,943,515
+fr_roadsigns_1083.jpg,Roundabout,0.81,10,8,209,184
+fr_roadsigns_1083.jpg,Stop,0.76,498,227,600,329
+fr_roadsigns_1083.jpg,Level_crossing_with_gates_on_side_road,0.55,256,120,449,321
+fr_roadsigns_1083.jpg,End_of_bridleway,0.53,989,448,1189,650

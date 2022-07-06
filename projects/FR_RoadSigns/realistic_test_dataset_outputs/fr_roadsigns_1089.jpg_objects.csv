@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1089.jpg,Chevron_left,0.91,990,451,1191,650
+fr_roadsigns_1089.jpg,Road_narrows_on_left,0.8,9,9,210,187
+fr_roadsigns_1089.jpg,No_vehicles,0.7,254,118,357,220
+fr_roadsigns_1089.jpg,Contra_flow_cycle_lane,0.44,747,339,945,542

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1099.jpg,One_way_traffic,0.87,10,10,210,213
+fr_roadsigns_1099.jpg,Overtaking_lanes,0.86,746,339,847,441
+fr_roadsigns_1099.jpg,Parking_zone,0.81,989,450,1089,550
+fr_roadsigns_1099.jpg,Slip_road_to_left,0.74,254,119,355,220
+fr_roadsigns_1099.jpg,Stop_police,0.43,499,231,698,430

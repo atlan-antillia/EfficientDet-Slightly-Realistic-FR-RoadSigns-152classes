@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1076.jpg,Tram_crossing,0.91,499,228,695,427
+fr_roadsigns_1076.jpg,Pedestrian_precinct,0.8,7,10,110,111
+fr_roadsigns_1076.jpg,Double_bend_first_to_left,0.74,254,122,458,299
+fr_roadsigns_1076.jpg,No_right_turn,0.61,987,447,1192,654

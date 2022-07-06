@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1098.jpg,Advisory_minimum_speed,0.91,10,11,110,107
+fr_roadsigns_1098.jpg,Ahead_only,0.91,256,119,354,219
+fr_roadsigns_1098.jpg,Pedestrian_lane,0.8,991,451,1091,552

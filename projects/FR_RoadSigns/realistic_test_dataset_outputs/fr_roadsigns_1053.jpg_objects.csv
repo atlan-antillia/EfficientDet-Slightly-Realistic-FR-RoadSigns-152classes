@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1053.jpg,Road_works,0.84,744,339,845,430
+fr_roadsigns_1053.jpg,Level_crossing_without_gates_single_track,0.57,502,224,699,361
+fr_roadsigns_1053.jpg,One_way_traffic,0.5,990,451,1092,550

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1026.jpg,Road_works,0.81,256,120,454,298
+fr_roadsigns_1026.jpg,Stop,0.79,990,447,1092,549
+fr_roadsigns_1026.jpg,End_of_priority_road,0.66,7,8,110,114
+fr_roadsigns_1026.jpg,No_right_turn,0.55,740,337,943,543
+fr_roadsigns_1026.jpg,No_tractors,0.4,498,230,601,331

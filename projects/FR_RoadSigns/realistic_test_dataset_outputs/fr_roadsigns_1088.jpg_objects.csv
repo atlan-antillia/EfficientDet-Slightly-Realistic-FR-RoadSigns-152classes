@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1088.jpg,Tram_crossing,0.84,498,231,599,330
+fr_roadsigns_1088.jpg,No_vehicles,0.81,744,338,845,442
+fr_roadsigns_1088.jpg,Level_crossing_with_gates_on_side_road,0.67,989,452,1193,653
+fr_roadsigns_1088.jpg,Other_danger,0.55,8,11,110,99

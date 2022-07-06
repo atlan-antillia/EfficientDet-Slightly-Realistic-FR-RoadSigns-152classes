@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1034.jpg,End_of_50_km_zone,0.75,8,7,111,111
+fr_roadsigns_1034.jpg,Speed_limit_50_km,0.46,990,445,1192,652
+fr_roadsigns_1034.jpg,No_stopping,0.46,500,229,599,332
+fr_roadsigns_1034.jpg,No_stopping,0.45,254,119,354,220

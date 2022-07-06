@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1009.jpg,Axle_weight_limit_5_tonnes,0.89,11,10,212,215
+fr_roadsigns_1009.jpg,Bend_to_left,0.88,501,229,697,407
+fr_roadsigns_1009.jpg,Pedestrian_lane,0.83,744,339,843,440
+fr_roadsigns_1009.jpg,No_pedestrians,0.81,252,119,457,323
+fr_roadsigns_1009.jpg,Queues_likely,0.66,989,448,1091,540

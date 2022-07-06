@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1065.jpg,Trams_crossing_ahead,0.79,745,338,844,427
+fr_roadsigns_1065.jpg,End_of_priority_road,0.75,255,117,453,316
+fr_roadsigns_1065.jpg,Road_narrows_on_right,0.74,498,229,600,318
+fr_roadsigns_1065.jpg,Cyclists,0.66,11,10,213,188
+fr_roadsigns_1065.jpg,End_of_bicycle_lane,0.47,992,452,1187,651

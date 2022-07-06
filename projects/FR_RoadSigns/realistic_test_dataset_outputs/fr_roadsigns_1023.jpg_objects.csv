@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1023.jpg,Tram_crossing,0.91,988,448,1189,648
+fr_roadsigns_1023.jpg,No_through_road,0.91,10,8,211,211
+fr_roadsigns_1023.jpg,30_km_zone,0.87,744,337,900,541
+fr_roadsigns_1023.jpg,End_of_no_sounding_of_horns,0.67,254,122,453,320
+fr_roadsigns_1023.jpg,End_of_bus_lane,0.51,499,230,700,431

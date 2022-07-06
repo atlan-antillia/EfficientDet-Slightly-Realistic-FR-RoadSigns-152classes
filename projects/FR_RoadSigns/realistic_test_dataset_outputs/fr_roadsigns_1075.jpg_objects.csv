@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1075.jpg,Uneven_road,0.92,499,230,699,409
+fr_roadsigns_1075.jpg,Bus_stop,0.92,9,10,108,108
+fr_roadsigns_1075.jpg,Stop,0.81,250,117,357,222
+fr_roadsigns_1075.jpg,Stop_sign_150_metres_ahead,0.8,744,340,887,539
+fr_roadsigns_1075.jpg,End_of_no_overtaking,0.41,989,449,1089,552

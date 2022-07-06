@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1035.jpg,End_of_home_zone,0.81,255,120,457,323
+fr_roadsigns_1035.jpg,Road_narrows,0.81,991,449,1092,539
+fr_roadsigns_1035.jpg,Bumps_in_road,0.58,744,340,845,429
+fr_roadsigns_1035.jpg,Stop_police,0.52,10,9,214,211

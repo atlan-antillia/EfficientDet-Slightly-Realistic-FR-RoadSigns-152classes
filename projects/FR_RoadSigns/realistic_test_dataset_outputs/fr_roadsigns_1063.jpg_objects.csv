@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1063.jpg,Slippery_road,0.9,743,338,844,429
+fr_roadsigns_1063.jpg,Pedestrian_lane,0.84,501,230,701,434
+fr_roadsigns_1063.jpg,Escape_lane_on_right,0.8,258,118,457,321
+fr_roadsigns_1063.jpg,Two_way_traffic_ahead,0.74,989,448,1090,539
+fr_roadsigns_1063.jpg,Turn_left_or_right,0.69,9,10,211,212

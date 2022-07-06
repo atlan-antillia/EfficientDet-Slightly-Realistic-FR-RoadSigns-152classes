@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1017.jpg,Lanes_merge,0.77,255,118,454,321
+fr_roadsigns_1017.jpg,End_of_cycle_route,0.72,501,231,703,430
+fr_roadsigns_1017.jpg,Bridleway,0.71,989,451,1089,551
+fr_roadsigns_1017.jpg,Pedestrian_lane,0.71,9,10,110,111
+fr_roadsigns_1017.jpg,End_of_motorway,0.46,743,340,946,541

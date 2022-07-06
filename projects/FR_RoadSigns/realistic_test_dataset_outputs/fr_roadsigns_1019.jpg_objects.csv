@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1019.jpg,Slip_road_to_left,0.96,12,9,207,210
+fr_roadsigns_1019.jpg,Turn_right_ahead,0.69,741,338,946,542
+fr_roadsigns_1019.jpg,End_of_priority_road,0.65,250,118,356,223
+fr_roadsigns_1019.jpg,Level_crossing_without_gates_and_with_a_flashing_red_warning_light,0.42,500,224,599,296

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1012.jpg,Bus_stop,0.87,255,120,353,221
+fr_roadsigns_1012.jpg,Cyclists,0.67,992,448,1187,627
+fr_roadsigns_1012.jpg,Bicycle_lane,0.62,499,231,599,332
+fr_roadsigns_1012.jpg,Cycle_route,0.54,743,339,845,441
+fr_roadsigns_1012.jpg,Go_ahead_or_turn_right,0.43,9,10,112,112

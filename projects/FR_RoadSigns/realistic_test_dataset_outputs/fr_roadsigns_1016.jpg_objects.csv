@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1016.jpg,Other_danger,0.84,741,339,847,429
+fr_roadsigns_1016.jpg,No_pedestrians,0.8,9,9,209,210
+fr_roadsigns_1016.jpg,End_of_fast_traffic_highway,0.58,256,118,454,321
+fr_roadsigns_1016.jpg,No_buses,0.41,500,231,699,433

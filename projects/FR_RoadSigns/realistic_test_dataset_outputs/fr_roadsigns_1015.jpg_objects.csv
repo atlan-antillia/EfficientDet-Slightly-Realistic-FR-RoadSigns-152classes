@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1015.jpg,Bicycle_lane,0.89,501,228,700,429
+fr_roadsigns_1015.jpg,Priority_road,0.89,10,8,209,215
+fr_roadsigns_1015.jpg,Lanes_merge,0.77,254,119,355,219
+fr_roadsigns_1015.jpg,No_overtaking,0.62,991,447,1190,649

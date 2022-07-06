@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1062.jpg,Ahead_only,0.92,252,117,453,323
+fr_roadsigns_1062.jpg,Speed_humps,0.92,989,451,1090,549
+fr_roadsigns_1062.jpg,Bicycle_lane,0.89,742,336,947,542

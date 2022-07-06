@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1036.jpg,Road_narrows,0.93,13,10,210,187
+fr_roadsigns_1036.jpg,Snow_chains_compulsory,0.8,254,118,458,323
+fr_roadsigns_1036.jpg,End_of_minimum_speed,0.67,989,446,1190,650
+fr_roadsigns_1036.jpg,Width_limit_2.5_metres,0.4,744,339,949,542

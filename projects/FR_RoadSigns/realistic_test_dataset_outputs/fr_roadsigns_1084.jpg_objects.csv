@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1084.jpg,End_of_overtaking_lanes,0.89,10,9,211,209
+fr_roadsigns_1084.jpg,Steep_hill_downwards,0.81,254,118,355,208
+fr_roadsigns_1084.jpg,Stop_sign_150_metres_ahead,0.67,745,339,835,437
+fr_roadsigns_1084.jpg,No_handcarts,0.52,988,449,1194,653

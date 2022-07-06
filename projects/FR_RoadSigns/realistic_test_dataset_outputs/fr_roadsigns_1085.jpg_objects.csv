@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1085.jpg,Risk_of_fire,0.94,988,452,1146,645
+fr_roadsigns_1085.jpg,Contra_flow_cycle_lane,0.78,10,10,210,212
+fr_roadsigns_1085.jpg,Slip_road_to_right,0.74,255,120,459,320
+fr_roadsigns_1085.jpg,Two_way_traffic_ahead,0.7,501,230,696,403
+fr_roadsigns_1085.jpg,Roundabout,0.43,744,337,846,428

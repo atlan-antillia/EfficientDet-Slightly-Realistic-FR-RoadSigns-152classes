@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1043.jpg,Uneven_road,0.93,748,339,944,513
+fr_roadsigns_1043.jpg,One_way_traffic,0.9,256,121,456,323
+fr_roadsigns_1043.jpg,Bend_to_left,0.89,7,7,109,99
+fr_roadsigns_1043.jpg,Reduced_visibility,0.76,990,446,1089,537
+fr_roadsigns_1043.jpg,End_of_advisory_minimum_speed,0.56,497,231,598,329

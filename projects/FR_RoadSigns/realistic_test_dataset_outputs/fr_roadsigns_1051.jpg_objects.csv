@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1051.jpg,Escape_lane_on_left,0.78,8,10,214,214
+fr_roadsigns_1051.jpg,End_of_advisory_minimum_speed,0.67,987,452,1196,650
+fr_roadsigns_1051.jpg,End_of_50_km_zone,0.64,252,119,456,324
+fr_roadsigns_1051.jpg,End_of_50_km_zone,0.61,744,338,940,539
+fr_roadsigns_1051.jpg,No_motor_vehicles_including_mopeds,0.57,498,230,599,331

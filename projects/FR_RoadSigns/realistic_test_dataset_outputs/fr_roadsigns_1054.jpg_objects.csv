@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1054.jpg,Bus_lane,0.98,9,10,208,210
+fr_roadsigns_1054.jpg,Road_narrows,0.83,256,119,354,209
+fr_roadsigns_1054.jpg,No_vehicles,0.82,990,448,1189,648
+fr_roadsigns_1054.jpg,Double_bend_first_to_right,0.74,500,229,701,407
+fr_roadsigns_1054.jpg,No_vehicles_carrying_dangerous_goods,0.51,743,340,844,441

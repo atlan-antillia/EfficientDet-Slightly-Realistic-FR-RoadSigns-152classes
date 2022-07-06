@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1047.jpg,Slippery_road,0.95,253,118,455,298
+fr_roadsigns_1047.jpg,Pedestrian_crossing,0.86,498,231,600,331
+fr_roadsigns_1047.jpg,End_of_overtaking_lanes,0.84,990,451,1087,552
+fr_roadsigns_1047.jpg,Overtaking_lanes,0.79,9,9,108,110

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1094.jpg,Bumps_in_road,0.84,501,233,701,410
+fr_roadsigns_1094.jpg,No_entry,0.68,744,339,944,540
+fr_roadsigns_1094.jpg,Level_crossing_with_gates_on_side_road,0.66,257,121,452,321
+fr_roadsigns_1094.jpg,Go_ahead_or_turn_right,0.51,12,10,210,210

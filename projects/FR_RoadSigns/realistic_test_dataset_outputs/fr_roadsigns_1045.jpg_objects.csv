@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1045.jpg,Bus_stop,0.95,747,341,940,539
+fr_roadsigns_1045.jpg,Crossroads_with_priority,0.83,12,10,208,185
+fr_roadsigns_1045.jpg,Turn_left_or_right,0.72,498,230,701,433
+fr_roadsigns_1045.jpg,Motorway,0.68,257,122,457,324
+fr_roadsigns_1045.jpg,End_of_no_overtaking_by_lorries,0.47,990,449,1090,550

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1055.jpg,Bend_to_left,0.92,255,118,457,299
+fr_roadsigns_1055.jpg,End_of_cycle_route,0.68,499,230,601,330
+fr_roadsigns_1055.jpg,No_handcarts,0.54,985,447,1194,653
+fr_roadsigns_1055.jpg,End_of_no_overtaking_by_lorries,0.49,11,8,210,211

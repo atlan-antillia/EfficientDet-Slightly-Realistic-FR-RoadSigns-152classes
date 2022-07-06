@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1092.jpg,Uneven_road,0.89,494,229,700,412
+fr_roadsigns_1092.jpg,Level_crossing_with_gates,0.71,257,121,457,299
+fr_roadsigns_1092.jpg,Give_way_sign_150_metres_ahead,0.5,4,8,102,115
+fr_roadsigns_1092.jpg,Stop_customs,0.45,987,448,1192,653

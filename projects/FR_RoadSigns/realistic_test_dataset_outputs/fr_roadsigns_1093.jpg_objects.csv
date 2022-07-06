@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1093.jpg,No_through_road,0.9,9,8,210,212
+fr_roadsigns_1093.jpg,Pedestrian_lane,0.84,743,339,943,543
+fr_roadsigns_1093.jpg,Slip_road_to_right,0.61,253,119,353,220
+fr_roadsigns_1093.jpg,Stop_police,0.46,987,449,1191,649
+fr_roadsigns_1093.jpg,Multiplayer_chevron_left,0.45,499,227,706,298

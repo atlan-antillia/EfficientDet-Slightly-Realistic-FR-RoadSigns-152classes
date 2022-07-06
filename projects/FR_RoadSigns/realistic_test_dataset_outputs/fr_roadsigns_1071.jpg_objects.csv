@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1071.jpg,Slip_road_to_left,0.94,11,10,211,213
+fr_roadsigns_1071.jpg,End_of_priority_road,0.71,497,233,705,430
+fr_roadsigns_1071.jpg,End_of_overtaking_lanes,0.67,743,340,844,440
+fr_roadsigns_1071.jpg,Stop_police,0.46,987,448,1191,649

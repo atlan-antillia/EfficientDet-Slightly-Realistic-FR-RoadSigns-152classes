@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1049.jpg,Crossroads_with_priority,0.85,9,12,209,188
+fr_roadsigns_1049.jpg,Reduced_visibility,0.82,989,447,1190,623
+fr_roadsigns_1049.jpg,Equestrians,0.59,256,120,354,210
+fr_roadsigns_1049.jpg,No_vehicles_carrying_explosives,0.55,501,230,697,431

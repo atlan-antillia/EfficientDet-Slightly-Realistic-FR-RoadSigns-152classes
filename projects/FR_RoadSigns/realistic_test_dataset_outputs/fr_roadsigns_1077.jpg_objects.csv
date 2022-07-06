@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1077.jpg,No_parking,0.85,989,448,1193,654
+fr_roadsigns_1077.jpg,End_of_pedestrian_and_cycle_route,0.67,10,8,112,110
+fr_roadsigns_1077.jpg,No_mopeds,0.62,254,118,356,222
+fr_roadsigns_1077.jpg,Turn_left,0.56,500,230,599,329

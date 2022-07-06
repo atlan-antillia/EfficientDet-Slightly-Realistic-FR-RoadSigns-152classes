@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1067.jpg,Risk_of_fire,0.91,256,119,410,317
+fr_roadsigns_1067.jpg,Slip_road_to_right,0.91,989,453,1087,551
+fr_roadsigns_1067.jpg,Road_works,0.82,742,340,846,430
+fr_roadsigns_1067.jpg,Stop_sign_150_metres_ahead,0.72,8,8,82,109
+fr_roadsigns_1067.jpg,No_vehicles,0.65,502,225,699,429

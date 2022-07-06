@@ -1,0 +1,4 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1005.jpg,End_of_advisory_minimum_speed,0.65,7,7,107,111
+fr_roadsigns_1005.jpg,Overtaking_lanes,0.64,500,231,597,329
+fr_roadsigns_1005.jpg,End_of_overtaking_lanes,0.54,990,450,1091,553

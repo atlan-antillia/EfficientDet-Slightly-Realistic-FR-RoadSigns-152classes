@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1018.jpg,Bridleway,0.96,498,228,704,431
+fr_roadsigns_1018.jpg,Bridleway,0.95,743,338,949,543
+fr_roadsigns_1018.jpg,End_of_no_overtaking_by_lorries,0.56,252,119,355,222
+fr_roadsigns_1018.jpg,End_of_pedestrian_lane,0.42,11,10,109,109

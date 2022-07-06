@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1011.jpg,Chevron_right,0.96,988,446,1193,653
+fr_roadsigns_1011.jpg,Escape_lane_on_right,0.82,9,9,109,109
+fr_roadsigns_1011.jpg,Snow_chains_compulsory,0.78,499,228,700,433
+fr_roadsigns_1011.jpg,End_of_pedestrian_lane,0.48,254,120,454,320

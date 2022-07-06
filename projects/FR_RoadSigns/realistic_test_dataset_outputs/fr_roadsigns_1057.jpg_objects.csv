@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+fr_roadsigns_1057.jpg,Double_bend_first_to_right,0.75,7,7,109,99
+fr_roadsigns_1057.jpg,End_of_home_zone,0.75,502,229,703,431
+fr_roadsigns_1057.jpg,Road_narrows_on_left,0.61,742,338,844,428
+fr_roadsigns_1057.jpg,No_u_turns,0.52,253,117,357,220
+fr_roadsigns_1057.jpg,No_buses,0.47,989,449,1193,652
